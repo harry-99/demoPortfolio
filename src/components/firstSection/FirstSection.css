@@ -1,0 +1,28 @@
+.first-section {
+    background-color: rgb(8, 33, 61);
+    background-image: linear-gradient(rgb(63, 10, 10), rgb(4, 57, 16), rgb(24, 16, 57));
+    color: white;
+    height: 70vh;
+    /* background-image: url("https://www.springboard.com/blog/wp-content/uploads/2019/07/sb-blog-programming.png"); */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.img-container {
+    height: 60%;
+    overflow: hidden;
+}
+
+img {
+    border-radius: 30%;
+    width: 50%;
+}
+
+.intro {
+    font-size: 2rem;
+}
+
+.text {
+    width: 30%;
+}

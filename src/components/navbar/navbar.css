@@ -1,0 +1,26 @@
+.nav {
+    background-color: teal;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 3rem;
+}
+
+.name {
+    margin-left: 50px;
+}
+
+li {
+    list-style: none;
+    color: white;
+}
+
+ul {
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+    gap: 30px;
+
+
+}

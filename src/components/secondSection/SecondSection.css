@@ -1,0 +1,39 @@
+.second-section {
+    background-color: rgb(8, 33, 61);
+    background-image: linear-gradient(rgb(251, 247, 247), rgb(124, 245, 150), rgb(250, 242, 5));
+    color: white;
+    height: 70vh;
+    /* background-image: url("https://www.springboard.com/blog/wp-content/uploads/2019/07/sb-blog-programming.png"); */
+}
+
+.second-section-title {
+    font-size: 3rem;
+    color: rgb(3, 19, 38)
+}
+
+.second-section-contents {
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-inline: auto;
+}
+
+.right-side-list {
+    flex-direction: column;
+    margin-left: 200px;
+    margin-top: 40px;
+    color: rgb(3, 30, 1);
+    font-weight: bold;
+}
+
+.left-side {
+    font-size: 4rem;
+    width: 500px;
+    font-family: cursive;
+    color: rgb(43, 2, 35);
+}
+
+.right-side {
+    margin-inline: auto;
+}

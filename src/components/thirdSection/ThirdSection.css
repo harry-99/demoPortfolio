@@ -1,0 +1,17 @@
+.skill-container {
+    margin-top: 20px;
+    margin-inline: auto;
+    width: 60%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+
+.icons {
+    width: 50px;
+}
+
+.skill-heading {
+    font-size: 2.5rem;
+    color: rgb(47, 28, 4);
+}
